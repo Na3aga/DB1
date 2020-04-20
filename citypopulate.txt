@@ -1,0 +1,1046 @@
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('city', 'region', 'state_code', 'country_code');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('London', 'London', '', 'GBR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('San Francisco', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Paris', 'Paris', '', 'FRA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Bel', 'Brussels', '', 'BEL');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Hanover', 'Baltimore', 'MD', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('New York', 'New York City', 'NY', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Cambridge', 'Boston', 'MA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Stevenson', 'WA - Other', 'WA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Toronto', 'Toronto', 'ON', 'CAN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Edinburgh', 'Edinburgh', '', 'GBR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Austin', 'Austin', 'TX', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Miami', 'Miami', 'FL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Vancouver', 'Vancouver', 'BC', 'CAN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Cleveland', 'Cleveland', 'OH', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Kalamazoo', 'Kalamazoo', 'MI', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Paoli', 'Philadelphia', 'PA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Buenos Aires', 'Buenos Aires', '', 'ARG');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Palo Alto', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Dublin', 'Columbus, Ohio', 'OH', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Denver', 'Denver', 'CO', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Westminster', 'Denver', 'CO', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Pittsburgh', 'Pittsburgh', 'PA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Atlanta', 'Atlanta', 'GA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Newport Beach', 'Anaheim', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Vilnius', 'Vilnius', '', 'LTU');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Seattle', 'Seattle', 'WA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Livermore', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Laguna Hills', 'Los Angeles', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Honolulu', 'Honolulu', 'HI', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('San Mateo', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('St Louis', 'St. Louis', 'MO', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Waltham', 'Boston', 'MA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Fredrikstad', 'NOR - Other', '', 'NOR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Beverly Hills', 'Los Angeles', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Moscow', 'Moscow', '', 'RUS');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Taipei', 'Taiwan', '', 'TWN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Hennigsdorf', 'DEU - Other', '', 'DEU');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Chattanooga', 'Chattanooga', 'TN', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Rockville', 'MN - Other', 'MN', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Boston', 'Boston', 'MA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Gatineau', 'Gatineau', 'QC', 'CAN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Franklin', 'Nashville', 'TN', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Mission', 'KS - Other', 'KS', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Cincinnati', 'Cincinnati', 'OH', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Tokyo', 'Tokyo', '', 'JPN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Belfast', 'Belfast', '', 'GBR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Barcelona', 'Barcelona', '', 'ESP');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('New Delhi', 'New Delhi', '', 'IND');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Folsom', 'Sacramento', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Delft', 'The Hague', '', 'NLD');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Oak Ridge', 'Knoxville', 'TN', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Providence', 'Providence', 'RI', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Mountain View', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Montr�al', 'Montreal', 'QC', 'CAN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Scottsdale', 'Phoenix', 'AZ', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Carthage', 'Carthage', 'IL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Sunnyvale', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Newcastle Upon Tyne', 'Newcastle', '', 'GBR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Ann Arbor', 'Detroit', 'MI', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Madrid', 'Madrid', '', 'ESP');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Bellevue', 'Seattle', 'WA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Burnsville', 'Minneapolis', 'MN', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Reston', 'Washington, D.C.', 'VA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Fresno', 'Fresno', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Des Moines', 'Des Moines', 'IA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Santa Clara', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Framingham', 'Boston', 'MA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Helsinki', 'Helsinki', '', 'FIN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Catania', 'Catania', '', 'ITA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Tel Aviv', 'Tel Aviv', '', 'ISR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('San Diego', 'San Diego', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Durham', 'Raleigh', 'NC', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Palm Beach Gardens', 'Palm Beaches', 'FL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('V�stra Fr�lunda', 'SWE - Other', '', 'SWE');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Philadelphia', 'Philadelphia', 'PA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Winter Park', 'Orlando', 'FL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Brentwood', 'Nashville', 'TN', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Kansas City', 'Kansas City', 'KS', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Portland', 'Portland, Oregon', 'OR', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Alpharetta', 'Atlanta', 'GA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Copenhagen', 'Copenhagen', '', 'DNK');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Washington', 'Washington, D.C.', 'DC', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Noida', 'New Delhi', '', 'IND');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Lausanne', 'Lausanne', '', 'CHE');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Van Nuys', 'Los Angeles', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Nashville', 'Nashville', 'TN', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Berkeley Heights', 'Newark', 'NJ', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Nashua', 'Manchester, New Hampshire', 'NH', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Madison', 'Huntsville', 'AL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Redwood Shores', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Green Bay', 'Green Bay', 'WI', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('San Jose', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Foothill Ranch', 'Orange County, California', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('New Haven', 'Hartford', 'CT', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Bucharest', 'Bucharest', '', 'ROM');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Redwood City', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Petah Tiqva', 'Tel Aviv', '', 'ISR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Elyria', 'Cleveland', 'OH', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Linthicum Heights', 'Baltimore', 'MD', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Santa Monica', 'Los Angeles', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Montpellier', 'Montpellier', '', 'FRA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Lincoln', 'Omaha', 'NE', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Los Altos', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Lule�', 'Lulea', '', 'SWE');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Charleston', 'Charleston, South Carolina', 'SC', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Houston', 'Houston', 'TX', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Chicago', 'Chicago', 'IL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Bedminster', 'Newark', 'NJ', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Raleigh', 'Raleigh', 'NC', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Urbandale', 'Des Moines', 'IA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Seoul', 'Seoul', '', 'KOR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Corvallis', 'Salem, Oregon', 'OR', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Westford', 'Boston', 'MA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('New Orleans', 'New Orleans', 'LA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Bethesda', 'Washington, D.C.', 'MD', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Pittsburg', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Los Angeles', 'Los Angeles', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Eden Prairie', 'Minneapolis', 'MN', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Dover', 'Akron - Canton', 'OH', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Tempe', 'Phoenix', 'AZ', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Munich', 'Munich', '', 'DEU');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Plano', 'Dallas', 'TX', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('North Little Rock', 'Little Rock', 'AR', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Edison', 'Newark', 'NJ', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Bridgeport', 'Hartford', 'CT', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Krak�w', 'Krakow', '', 'POL');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Boadilla Del Monte', 'Madrid', '', 'ESP');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Heidelberg', 'Frankfurt', '', 'DEU');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('San Bruno', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Burlingame', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Oakland', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Mumbai', 'Mumbai', '', 'IND');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Gothenburg', 'Gothenburg', '', 'SWE');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('S�o Paulo', 'Sao Paulo', '', 'BRA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Burlington', 'Montpelier', 'VT', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Oroville', 'WA - Other', 'WA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Werl', 'DEU - Other', '', 'DEU');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Memphis', 'Memphis', 'TN', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Doylestown', 'Philadelphia', 'PA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Youngstown', 'Youngstown', 'OH', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Sydney', 'Sydney', '', 'AUS');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Singapore', 'Singapore', '', 'SGP');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Manhattan Beach', 'Los Angeles', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Ra'anana', 'Tel Aviv', '', 'ISR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Irvine', 'Anaheim', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Seongnam', 'Seongnam', '', 'KOR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Horsham', 'Philadelphia', 'PA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Cork', 'Cork', '', 'IRL');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Milan', 'Milan', '', 'ITA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Makati', 'Manila', '', 'PHL');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Baltimore', 'Baltimore', 'MD', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Champaign', 'Springfield, Illinois', 'IL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Louisville', 'Louisville', 'KY', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Draper', 'Salt Lake City', 'UT', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Chagrin Falls', 'Cleveland', 'OH', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Orlando', 'Orlando', 'FL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Sandy', 'Salt Lake City', 'UT', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Oeiras', 'Lisbon', '', 'PRT');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Lima', 'Lima', '', 'PER');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Corona', 'Ontario - Inland Empire', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Falls Church', 'Washington, D.C.', 'VA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Roma', 'Rome', '', 'ITA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Aarhus', 'Aarhus', '', 'DNK');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Hoboken', 'Newark', 'NJ', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Menlo Park', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Arlington Heights', 'MA - Other', 'MA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Caesarea', 'Netanya', '', 'ISR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Lexington', 'Boston', 'MA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Brno', 'Prague', '', 'CZE');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Kirkland', 'Seattle', 'WA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Murray', 'Salt Lake City', 'UT', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Emeryville', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Huntington Station', 'Long Island', 'NY', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Dallas', 'Dallas', 'TX', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Bridgewater', 'Newark', 'NJ', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Freiburg', 'Freiburg', '', 'DEU');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Vienna', 'Vienna', '', 'AUT');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Indianapolis', 'Indianapolis', 'IN', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Woburn', 'Boston', 'MA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Kfar Saba', 'Tel Aviv', '', 'ISR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Stockholm', 'ME - Other', 'ME', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Detroit', 'Detroit', 'MI', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Wellington', 'Wellington', '', 'NZL');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('New Hope', 'Philadelphia', 'PA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Santa Barbara', 'Santa Barbara', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Fairfax', 'Washington, D.C.', 'VA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Phoenix', 'Phoenix', 'AZ', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Lake Oswego', 'Portland, Oregon', 'OR', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Hasselt', 'Brussels', '', 'BEL');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Overland Park', 'Kansas City', 'KS', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Berlin', 'Berlin', '', 'DEU');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Littleton', 'Denver', 'CO', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Glen Allen', 'Richmond', 'VA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Waterloo', 'Toronto', 'ON', 'CAN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Rio De Janeiro', 'Rio de Janeiro', '', 'BRA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Boulder', 'Denver', 'CO', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Cochin', 'Cochin', '', 'IND');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Boca Raton', 'Palm Beaches', 'FL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Arlington', 'Washington, D.C.', 'VA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Tampa', 'Tampa', 'FL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Ashburn', 'Washington, D.C.', 'VA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Dubai', 'Dubai', '', 'ARE');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Sioux Falls', 'Sioux Falls', 'SD', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('American Fork', 'Salt Lake City', 'UT', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Fall River', 'New Bedford', 'MA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Mougins', 'Nice', '', 'FRA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Bierges', 'BEL - Other', '', 'BEL');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Saint Cloud', 'MN - Other', 'MN', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Melbourne', 'Melbourne', '', 'AUS');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Akron', 'Akron - Canton', 'OH', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Los Altos Hills', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Grafton', 'Milwaukee', 'WI', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('San Carlos', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Morris Plains', 'Newark', 'NJ', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Beachwood', 'Cleveland', 'OH', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Edmonton', 'Edmonton', 'AB', 'CAN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('East Peoria', 'Peoria', 'IL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Espoo', 'Helsinki', '', 'FIN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('San Antonio', 'San Antonio', 'TX', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('North Vancouver', 'Vancouver', 'BC', 'CAN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Tallinn', 'Tallinn', '', 'EST');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Herzliya', 'Tel Aviv', '', 'ISR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Columbia', 'St. Louis', 'MO', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Somerville', 'Boston', 'MA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Hamburg', 'Hamburg', '', 'DEU');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Saint Louis', 'St. Louis', 'MO', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Quebec', 'Quebec City', 'QC', 'CAN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Las Vegas', 'Las Vegas', 'NV', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Brooklyn', 'New York City', 'NY', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Chapel Hill', 'Raleigh', 'NC', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Bangalore', 'Bangalore', '', 'IND');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('St. Petersburg', 'Tampa', 'FL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Pleasanton', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Camarillo', 'Santa Barbara', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Temecula', 'Ontario - Inland Empire', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Exeter', 'Exeter', '', 'GBR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Brussels', 'Brussels', '', 'BEL');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Gainesville', 'Gainesville', 'FL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Libourne', 'FRA - Other', '', 'FRA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('�an', '�an', '', 'TUR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Broomfield', 'Denver', 'CO', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Lyndonville', 'NY - Other', 'NY', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Derwood', 'MD - Other', 'MD', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Kilauea', 'HI - Other', 'HI', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Woodbridge', 'CT - Other', 'CT', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('South Glastonbury', 'CT - Other', 'CT', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Homburg', 'Homburg', '', 'DEU');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Liverpool', 'Liverpool', '', 'GBR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Salt Lake City', 'Salt Lake City', 'UT', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Brunswick', 'Portland, Maine', 'ME', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Los Gatos', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Pasadena', 'Los Angeles', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Z�rich', 'Zurich', '', 'CHE');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('St. John's', 'St. John's', 'NL', 'CAN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Boulder Creek', 'CA - Other', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Lab�ge', 'Lab�ge', '', 'FRA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Santiago', 'Santiago', '', 'CHL');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Tulsa', 'Tulsa', 'OK', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Istanbul', 'Istanbul', '', 'TUR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Melville', 'Long Island', 'NY', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Roncade', 'Roncade', '', 'ITA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Barrie', 'Toronto', 'ON', 'CAN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Greensboro', 'Greensboro', 'NC', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Stamford', 'Hartford', 'CT', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Palma De Mallorca', 'Palma De Mallorca', '', 'ESP');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Watertown', 'Boston', 'MA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Milwaukee', 'Milwaukee', 'WI', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Charlottesville', 'Washington, D.C.', 'VA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Coralville', 'Cedar Rapids', 'IA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Ottawa', 'Ottawa', 'ON', 'CAN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Nantes', 'Nantes', '', 'FRA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Windsor', 'CO - Other', 'CO', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Morrisville', 'Raleigh', 'NC', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Shenzhen', 'Shenzhen', '', 'CHN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Budapest', 'Budapest', '', 'HUN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Kuala Lumpur', 'Kuala Lumpur', '', 'MYS');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Midvale', 'Salt Lake City', 'UT', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Katowice', 'Katowice', '', 'POL');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Lowell', 'Boston', 'MA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Riga', 'Riga', '', 'LVA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('C�rdoba', 'Cordoba, ARG', '', 'ARG');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Columbus', 'Columbus, Ohio', 'OH', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Cuyahoga Falls', 'Akron - Canton', 'OH', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Norwich', 'London', '', 'GBR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Cordova', 'Memphis', 'TN', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Lehi', 'Salt Lake City', 'UT', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Eindhoven', 'Eindhoven', '', 'NLD');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Lewisville', 'Dallas', 'TX', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Tullahoma', 'TN - Other', 'TN', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('West Hollywood', 'Los Angeles', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Omaha', 'Omaha', 'NE', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Minneapolis', 'Minneapolis', 'MN', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Hond�n De Los Frailes', 'ESP - Other', '', 'ESP');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('San Juan Capistrano', 'Orange County, California', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Cagliari', 'Cagliari', '', 'ITA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Satellite Beach', 'Florida's Space Coast', 'FL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('El Segundo', 'Los Angeles', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Cologne', 'Cologne', '', 'DEU');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Park City', 'Salt Lake City', 'UT', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Prairie Village', 'KS - Other', 'KS', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Montevideo', 'Montevideo', '', 'URY');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Guatemala City', 'Guatemala City', '', 'GTM');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('New Providence', 'Newark', 'NJ', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Maynard', 'Boston', 'MA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Torrance', 'Los Angeles', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Belmont-sur-lausanne', 'CHE - Other', '', 'CHE');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Lagos', 'Lagos', '', 'NGA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Nairobi', 'Nairobi', '', 'KEN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Charlotte', 'Charlotte', 'NC', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Santa Fe', 'Albuquerque', 'NM', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Ambler', 'Philadelphia', 'PA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Orsay', 'Orsay', '', 'FRA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('M�nchen', 'Munich', '', 'DEU');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Shanghai', 'Shanghai', '', 'CHN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Fremont', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Fort Lauderdale', 'Ft. Lauderdale', 'FL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('South San Francisco', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Bedford', 'Halifax', 'QC', 'CAN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Ferndale', 'Detroit', 'MI', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Lucerne Valley', 'CA - Other', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Griffith', 'Sydney', '', 'AUS');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Kanagawa', 'Yokohama', '', 'JPN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Santa Cruz', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Keswick', 'VA - Other', 'VA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Concord', 'Boston', 'MA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Moncton', 'Moncton', 'ON', 'CAN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Alexandria', 'Alexandria', 'VA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Culver City', 'Los Angeles', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Orange', 'Anaheim', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Berkeley', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Amsterdam', 'Amsterdam', '', 'NLD');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Huntington Beach', 'Anaheim', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Dayton', 'Dayton', 'OH', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Casper', 'WY - Other', 'WY', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Woodland Hills', 'Los Angeles', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Boise', 'Boise', 'ID', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Norwalk', 'Hartford', 'CT', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('West Palm Beach', 'Palm Beaches', 'FL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Birmingham', 'Birmingham', 'AL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Lancaster', 'Harrisburg', 'PA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Exton', 'Philadelphia', 'PA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('San Polo', 'ITA - Other', '', 'ITA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Gurgaon', 'New Delhi', '', 'IND');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Labbeck', 'DEU - Other', '', 'DEU');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Leiden', 'The Hague', '', 'NLD');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Rancho Mirage', 'Palm Springs', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Venice', 'Los Angeles', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Ledbury', 'GBR - Other', '', 'GBR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Libertyville', 'Chicago', 'IL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Oklahoma City', 'Oklahoma City', 'OK', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Milano', 'TX - Other', 'TX', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('K�ln', 'Cologne', '', 'DEU');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Moffett Field', 'CA - Other', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Warsaw', 'Warsaw', '', 'POL');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Chevy Chase', 'Washington, D.C.', 'MD', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Ramat Gan', 'Tel Aviv', '', 'ISR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Fayetteville', 'Fayetteville', 'AR', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Burnaby', 'Burnaby', 'BC', 'CAN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Link�ping', 'Linkoping', '', 'SWE');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Aachen', 'Aachen', '', 'DEU');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Wilmington', 'Wilmington - Cape Fear, North Carolina', 'NC', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Buffalo', 'Buffalo', 'NY', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Willoughby', 'Cleveland', 'OH', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Dhaka', 'Dhaka', '', 'BGD');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Silver Spring', 'Washington, D.C.', 'MD', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Gaithersburg', 'Washington, D.C.', 'MD', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Milpitas', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Gent', 'Brussels', '', 'BEL');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Eveleth', 'Duluth', 'MN', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Radnor', 'Philadelphia', 'PA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Olathe', 'Kansas City', 'KS', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Apple Valley', 'Ontario - Inland Empire', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Pittsfield', 'Bangor', 'MA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Redmond', 'Seattle', 'WA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Kenansville', 'Jacksonville', 'FL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Limerick', 'Limerick', '', 'IRL');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Geneva', 'Geneva', '', 'CHE');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Marlton', 'NJ - Other', 'NJ', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Troy', 'Albany, New York', 'NY', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Spring Lake Park', 'MN - Other', 'MN', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Netanya', 'Netanya', '', 'ISR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Natick', 'Boston', 'MA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Bentonville', 'Fayetteville', 'AR', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Ghent', 'Brussels', '', 'BEL');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Acton', 'Boston', 'MA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Hong Kong', 'Hong Kong', '', 'HKG');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Chatsworth', 'Los Angeles', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Hardwick', 'Worcester', 'MA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Englewood', 'Denver', 'CO', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Sterling', 'Washington, D.C.', 'VA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Costa Mesa', 'Anaheim', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Bala Cynwyd', 'Philadelphia', 'PA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Montmel�', 'ESP - Other', '', 'ESP');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Wethersfield', 'Hartford', 'CT', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Orem', 'Salt Lake City', 'UT', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Cape Town', 'Cape Town', '', 'ZAF');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Issaquah', 'Seattle', 'WA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Sartrouville', 'FRA - Other', '', 'FRA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Kitchener', 'Toronto', 'ON', 'CAN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Needham', 'Boston', 'MA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Carlsbad', 'San Diego', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Canandaigua', 'Rochester, New York', 'NY', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Jakarta', 'Jakarta', '', 'IDN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Wayne', 'IL - Other', 'IL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Carmel', 'Indianapolis', 'IN', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Leesburg', 'Washington, D.C.', 'VA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Stanmore', 'Stanmore', '', 'GBR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Issy-les-moulineaux', 'Paris', '', 'FRA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('South Easton', 'Boston', 'MA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Mexico City', 'Mexico City', '', 'MEX');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('D�n Laoghaire', 'D�n Laoghaire', '', 'IRL');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Saint Paul', 'Minneapolis', 'MN', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Bristol', 'Bristol', '', 'GBR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Hudson', 'Akron - Canton', 'OH', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Sherman Oaks', 'Los Angeles', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Berwyn', 'Philadelphia', 'PA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('North Haven', 'Hartford', 'CT', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Kyoto-shi', 'Kyoto', '', 'JPN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Lewes', 'Dover', 'DE', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Calabasas', 'Los Angeles', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Clinton Township', 'Detroit', 'MI', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Kazan', 'Kazan', '', 'RUS');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Miami Beach', 'Miami', 'FL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Birker�d', 'DNK - Other', '', 'DNK');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Sausalito', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Fairfield', 'Hartford', 'CT', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Flower Mound', 'Dallas', 'TX', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Darien', 'Hartford', 'CT', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Calgary', 'Calgary', 'AB', 'CAN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Wexford', 'Pittsburgh', 'PA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Auburn', 'Sacramento', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Belo Horizonte', 'Rio de Janeiro', '', 'BRA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Frederick', 'Hagerstown', 'MD', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Sarasota', 'Sarasota - Bradenton', 'FL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Mission Viejo', 'Orange County, California', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Townsville', 'AUS - Other', '', 'AUS');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Chiasso', 'Chiasso', '', 'CHE');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Erie', 'Denver', 'CO', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Provo', 'Salt Lake City', 'UT', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Turku', 'Turku', '', 'FIN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Sierre', 'CHE - Other', '', 'CHE');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Long Island City', 'New York City', 'NY', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Belmont', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('La Rochelle', 'La Rochelle', '', 'FRA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Oxford', 'London', '', 'GBR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Boxborough', 'Boston', 'MA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Huntsville', 'Huntsville', 'AL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Newbury', 'Boston', 'MA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Christchurch', 'Christchurch', '', 'NZL');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Baxter', 'St. Cloud', 'MN', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Sewickley', 'Pittsburgh', 'PA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Kuala Lumpor', 'MYS - Other', '', 'MYS');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Beverly', 'Boston', 'MA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Eagan', 'Minneapolis', 'MN', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Apex', 'Raleigh', 'NC', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Beijing', 'Beijing', '', 'CHN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Deerfield Beach', 'Ft. Lauderdale', 'FL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Surry Hills', 'Sydney', '', 'AUS');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Pacific Palisades', 'CA - Other', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Bruges', 'FRA - Other', '', 'FRA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Boston Spa', 'Boston Spa', '', 'GBR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Lakeland', 'Tampa', 'FL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Princeton', 'Newark', 'NJ', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Ames', 'Des Moines', 'IA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Hawthorne', 'Los Angeles', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Zeeland', 'Grand Rapids', 'MI', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Lake Mary', 'Orlando', 'FL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('West Lafayette', 'Indianapolis', 'IN', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Saint John', 'NB - Other', 'NB', 'CAN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Charlestown', 'Boston', 'MA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Fort Collins', 'Fort Collins', 'CO', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Lebanon', 'Manchester, New Hampshire', 'NH', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Port Hueneme Cbc Base', 'CA - Other', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Williston', 'VT - Other', 'VT', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Hyderabad', 'Hyderabad', '', 'IND');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Oberlin', 'Cleveland', 'OH', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Paris Crossing', 'IN - Other', 'IN', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('East Sandwich', 'Cape Cod', 'MA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('College Park', 'Washington, D.C.', 'MD', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Darjeeling', 'IND - Other', '', 'IND');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Schaumburg', 'Chicago', 'IL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('San Rafael', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Fitchburg', 'WI - Other', 'WI', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Bozeman', 'Bozeman', 'MT', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Bath', 'Bath', '', 'GBR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Lakewood', 'Denver', 'CO', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Ventura', 'Santa Barbara', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Alamo', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Irving', 'Dallas', 'TX', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Chennai', 'Chennai', '', 'IND');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Wroclaw', 'Wroclaw', '', 'POL');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Knoxville', 'Knoxville', 'TN', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Westwood', 'Boston', 'MA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Jersey City', 'Newark', 'NJ', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Mclean', 'Washington, D.C.', 'VA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Albuquerque', 'Albuquerque', 'NM', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Sacramento', 'Sacramento', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Elmhurst', 'Chicago', 'IL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Guilford', 'Hartford', 'CT', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Bothell', 'Seattle', 'WA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Richmond', 'SF Bay Area', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Encinitas', 'San Diego', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Marseille', 'Marseille', '', 'FRA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Newark', 'Newark', 'NJ', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Sugar Land', 'Houston', 'TX', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Peoria', 'Phoenix', 'AZ', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Delhi', 'Delhi', '', 'IND');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Springfield', 'Springfield, Illinois', 'IL', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Sebastopol', 'Napa Valley', 'CA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Guelph', 'Toronto', 'ON', 'CAN');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Westport', 'Hartford', 'CT', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('San Casciano Val Di Pesa', 'San Casciano Val Di Pesa', '', 'ITA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Houghton Le Spring', 'GBR - Other', '', 'GBR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Newtonville', 'Atlantic City', 'NJ', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Toms River', 'Atlantic City', 'NJ', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Sogndal', 'NOR - Other', '', 'NOR');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Starkville', 'Tupelo', 'MS', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Valencia', 'Valencia', '', 'ESP');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Mandaluyong', 'Manila', '', 'PHL');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Manhattan', 'New York City', 'NY', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Herndon', 'Washington, D.C.', 'VA', 'USA');
+INSERT INTO City(city, region, state_code, country_code)
+VALUES('Kefar Sava', 'ISR - Other', '', 'ISR');
