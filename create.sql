@@ -24,7 +24,7 @@ CREATE TABLE Startup(
 
 CREATE TABLE Investment (
     invstid INTEGER NOT NULL,
-    name VARCHAR(40) NOT NULL REFERENCES Startup(name),
+    name VARCHAR(50) NOT NULL REFERENCES Startup(name),
     seed INTEGER NOT NULL,
     venture INTEGER NOT NULL
 );
