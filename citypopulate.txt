@@ -1,6 +1,4 @@
 INSERT INTO City(city, region, state_code, country_code)
-VALUES('city', 'region', 'state_code', 'country_code');
-INSERT INTO City(city, region, state_code, country_code)
 VALUES('London', 'London', '', 'GBR');
 INSERT INTO City(city, region, state_code, country_code)
 VALUES('San Francisco', 'SF Bay Area', 'CA', 'USA');
